@@ -17,3 +17,4 @@ Skills: REACT / JS / HTML / CSS / ORACLE
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaCamille&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NatashaCamille)  
