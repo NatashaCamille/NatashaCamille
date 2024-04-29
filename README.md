@@ -1,4 +1,4 @@
-Hi there 👋, 
+Hi 👋, 
 I am Natasha Camille, I am a developer into Design and Development
 
 ![Design and Development](https://pbs.twimg.com/profile_banners/1294611130854367233/1713801279/600x200)
