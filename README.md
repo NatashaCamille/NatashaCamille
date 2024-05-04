@@ -1,4 +1,4 @@
-Hi 👋, 
+Hi 👋 there my friend, 
 
 I am Natasha Camille, I am a developer into Design and Development
 
