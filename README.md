@@ -7,7 +7,7 @@ I am Natasha Camille, I am a developer into Design and Development
 Skills: REACT / JS / HTML / CSS / ORACLE
 
 - 🔭 I’m currently working on my profile 
-- 🌱 I’m currently learning Web3 / Blockchain 
+- 🌱 I’m currently learning how to use Web3 
 - 🤔 I’m looking for help with Web3 
 - 😄 Pronouns: She / her / I
 
