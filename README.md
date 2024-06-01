@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / ORACLE
 
 - 🔭 I’m currently working on my profile 
 - 🌱 I’m currently learning how to work with Web3 
-- 🤔 I’m looking for help with Web3 
+- 🤔 I’m looking to collaborate on Web3 projects
 - 😄 Pronouns: She / her
 
 
