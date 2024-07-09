@@ -6,7 +6,7 @@ I am Natasha Camille, I am a developer.
 
 Skills: REACT / JS / HTML / CSS / ORACLE
 
-- 🔭 I’m currently working on my profile 
+- 🔭 I’m currently working on a Dorahacks hackathon
 - 🌱 I’m currently learning how to work with Web3 
 - 🤔 I’m looking to collaborate on Web3 projects
 - 😄 Pronouns: She / her
