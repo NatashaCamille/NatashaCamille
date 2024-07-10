@@ -4,7 +4,7 @@ I am Natasha Camille, I am a developer.
 
 ![Design and Development](https://pbs.twimg.com/profile_banners/1294611130854367233/1713801279/600x200)
 
-Skills: REACT / JS / HTML / CSS / ORACLE
+Skills: REACT / JS / HTML / CSS / ORACLE / Web3
 
 - 🔭 I’m currently working on a Dorahacks hackathon
 - 🌱 I’m currently learning how to work with Web3 
