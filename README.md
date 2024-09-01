@@ -4,9 +4,9 @@ I am Natasha Camille, I am a developer and content developer
 
 ![Design and Development](https://pbs.twimg.com/profile_banners/1294611130854367233/1713801279/600x200)
 
-Skills: REACT / JS / HTML / CSS / ORACLE / Web3
+Skills: REACT / JS / HTML / CSS / ORACLE / Web3 enthusiast
 
-- 🔭 I’m currently working on a Dorahacks hackathon
+- 🔭 I’m currently working on a rust
 - 🌱 I’m currently learning how to work with and on the Blockchain with Rust/Cairo
 - 🤔 I’m looking to collaborate on Web3 projects / DApps
 - 😄 Pronouns: She / her
