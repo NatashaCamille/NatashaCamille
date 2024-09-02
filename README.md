@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS / ORACLE / Web3 enthusiast
 
 - 🔭 I’m currently working on a rust
 - 🌱 I’m currently learning how to work with and on the Blockchain with Rust/Cairo
-- 🤔 I’m looking to collaborate on Web3 projects / DApps
+- 🤔 I’m looking to collaborate on Web3 projects / DApps / hackathons
 - 😄 Pronouns: She / her
 
 
