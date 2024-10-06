@@ -7,7 +7,7 @@ I am Natasha Camille, I am a developer and content developer
 Skills: REACT / JS / HTML / CSS / ORACLE / Web3 enthusiast
 
 - 🔭 I’m currently working on a rust project 
-- 🌱 I’m currently learning how to work with and on the Blockchain with Rust/Cairo
+- 🌱 I’m currently learning how to work with and on the Blockchain with BasedAfrica
 - 🤔 I’m looking to collaborate on Web3 projects / DApps / hackathons
 - 😄 Pronouns: She / her
 - 
